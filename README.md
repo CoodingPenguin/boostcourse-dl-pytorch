@@ -7,7 +7,7 @@ edwith에서 제공하는 [파이토치 부스트코스 강의](https://www.edwi
 - [x] Lab-01-1 Tensor Manipulation 1
 - [x] Lab-01-2 Tensor Manipulation 2
 - [x] Lab-02 Linear regression
-- [ ] Lab-03 Deeper Look at GD
+- [x] Lab-03 Deeper Look at GD
 - [ ] Lab-04-1 Multivariable Linear regression
 - [ ] Lab-04-2 Loading Data
 - [ ] Lab-05 Logistic Regression
