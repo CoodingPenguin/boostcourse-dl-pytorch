@@ -8,8 +8,8 @@ edwith에서 제공하는 [파이토치 부스트코스 강의](https://www.edwi
 - [x] Lab-01-2 Tensor Manipulation 2
 - [x] Lab-02 Linear regression
 - [x] Lab-03 Deeper Look at GD
-- [ ] Lab-04-1 Multivariable Linear regression
-- [ ] Lab-04-2 Loading Data
+- [x] Lab-04-1 Multivariable Linear regression
+- [x] Lab-04-2 Loading Data
 - [ ] Lab-05 Logistic Regression
 - [ ] Lab-06 Softmax Classification
 - [ ] Lab-07-1 Tips
