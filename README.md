@@ -39,7 +39,7 @@ edwith에서 제공하는 [파이토치 부스트코스 강의](https://www.edwi
 - [ ] Lab-10-7 Next step of CNN
 - [ ] Project B. Cat-Dog Classifier
 
-## Part 4.
+## Part 4. Recurrent Neural Network
 
 - [ ] Lab-11-0 RNN intro
 - [ ] Lab-11-1 RNN basics
