@@ -22,7 +22,7 @@ edwith에서 제공하는 [파이토치 부스트코스 강의](https://www.edwi
 - [x] Lab-09-1 ReLU
 - [x] Lab-09-2 Weight initialization
 - [x] Lab-09-3 Dropout
-- [ ] Lab-09-4 Batch Normalization
+- [x] Lab-09-4 Batch Normalization
 - [ ] Project A. Fashion MNIST Classifier
 
 ## Part 3. Convolutional Neural Network
