@@ -21,7 +21,7 @@ edwith에서 제공하는 [파이토치 부스트코스 강의](https://www.edwi
 - [x] Lab-08-2 Multi Layer Perceptron
 - [x] Lab-09-1 ReLU
 - [x] Lab-09-2 Weight initialization
-- [ ] Lab-09-3 Dropout
+- [x] Lab-09-3 Dropout
 - [ ] Lab-09-4 Batch Normalization
 - [ ] Project A. Fashion MNIST Classifier
 
