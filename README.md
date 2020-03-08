@@ -13,7 +13,7 @@ edwith에서 제공하는 [파이토치 부스트코스 강의](https://www.edwi
 - [x] Lab-05 Logistic Regression
 - [x] Lab-06 Softmax Classification
 - [x] Lab-07-1 Tips
-- [ ] Lab-07-2 MNIST Introduction
+- [x] Lab-07-2 MNIST Introduction
 
 ## Part 2. Neural Network
 
