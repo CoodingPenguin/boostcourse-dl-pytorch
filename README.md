@@ -17,8 +17,8 @@ edwith에서 제공하는 [파이토치 부스트코스 강의](https://www.edwi
 
 ## Part 2. Neural Network
 
-- [ ] Lab-08-1 Perceptron
-- [ ] Lab-08-2 Multi Layer Perceptron
+- [x] Lab-08-1 Perceptron
+- [x] Lab-08-2 Multi Layer Perceptron
 - [ ] Lab-09-1 ReLU
 - [ ] Lab-09-2 Weight initialization
 - [ ] Lab-09-3 Dropout
