@@ -29,12 +29,12 @@ edwith에서 제공하는 [파이토치 부스트코스 강의](https://www.edwi
 
 ## Part 3. Convolutional Neural Network
 
-- [ ] Lab-10-0 Convolution Neural Network-intro
-- [ ] Lab-10-1 Convolution
-- [ ] Lab-10-2 Mnist CNN
-- [ ] Lab-10-3 visdom
-- [ ] Lab-10-4-1 ImageFolder1
-- [ ] Lab-10-4-2 ImageFolder2
+- [x] Lab-10-0 Convolution Neural Network-intro
+- [x] Lab-10-1 Convolution
+- [x] Lab-10-2 Mnist CNN
+- [x] Lab-10-3 visdom
+- [x] Lab-10-4-1 ImageFolder1
+- [x] Lab-10-4-2 ImageFolder2
 - [ ] Lab-10-5 Advance CNN(VGG)
 - [ ] Lab-10-6-1 Advanced CNN(RESNET-1)
 - [ ] Lab-10-6-2 Advanced CNN(RESNET-2)
