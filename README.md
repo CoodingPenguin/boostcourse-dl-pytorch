@@ -39,7 +39,9 @@ edwith에서 제공하는 [파이토치 부스트코스 강의](https://www.edwi
 - [x] Lab-10-6-1 Advanced CNN(RESNET-1)
 - [x] Lab-10-6-2 Advanced CNN(RESNET-2)
 - [x] Lab-10-7 Next step of CNN
-- [ ] Project B. Cat-Dog Classifier
+- [x] Project B. Cat-Dog Classifier
+
+![cnn_project.png](cnn_project.png)
 
 ## Part 4. Recurrent Neural Network
 
