@@ -46,10 +46,10 @@ edwith에서 제공하는 [파이토치 부스트코스 강의](https://www.edwi
 ## Part 4. Recurrent Neural Network
 
 - [x] Lab-11-0 RNN intro
-- [ ] Lab-11-1 RNN basics
-- [ ] Lab-11-2 RNN hihello and charseq
-- [ ] Lab-11-3 Long sequence
-- [ ] Lab-11-4 RNN timeseries
-- [ ] Lab-11-5 RNN seq2seq
-- [ ] Lab-11-6 PackedSequence
+- [x] Lab-11-1 RNN basics
+- [x] Lab-11-2 RNN hihello and charseq
+- [x] Lab-11-3 Long sequence
+- [x] Lab-11-4 RNN timeseries
+- [x] Lab-11-5 RNN seq2seq
+- [x] Lab-11-6 PackedSequence
 - [ ] Project C. Neural Weather Forecaster
