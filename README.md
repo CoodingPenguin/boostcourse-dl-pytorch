@@ -52,4 +52,6 @@ edwith에서 제공하는 [파이토치 부스트코스 강의](https://www.edwi
 - [x] Lab-11-4 RNN timeseries
 - [x] Lab-11-5 RNN seq2seq
 - [x] Lab-11-6 PackedSequence
-- [ ] Project C. Neural Weather Forecaster
+- [x] Project C. Neural Weather Forecaster
+
+![rnn_project.png](rnn_project.png)
