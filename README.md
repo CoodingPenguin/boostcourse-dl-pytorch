@@ -45,7 +45,7 @@ edwith에서 제공하는 [파이토치 부스트코스 강의](https://www.edwi
 
 ## Part 4. Recurrent Neural Network
 
-- [ ] Lab-11-0 RNN intro
+- [x] Lab-11-0 RNN intro
 - [ ] Lab-11-1 RNN basics
 - [ ] Lab-11-2 RNN hihello and charseq
 - [ ] Lab-11-3 Long sequence
