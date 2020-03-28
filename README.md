@@ -55,3 +55,7 @@ edwith에서 제공하는 [파이토치 부스트코스 강의](https://www.edwi
 - [x] Project C. Neural Weather Forecaster
 
 ![rnn_project.png](rnn_project.png)
+
+## 🏅 Certification of Completion
+
+![certificate.png](certificate.png)
