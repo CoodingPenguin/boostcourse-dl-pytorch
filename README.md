@@ -6,7 +6,7 @@
   <div>
     <img src="https://img.shields.io/badge/강사-모두를%20위한%20딥러닝-e76f51?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/사이트-부스트캠프-faa307?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/기간-2020.03.07%20~%2020.03.28-52b788?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/기간-2020.03.07%20~%202020.03.28-52b788?style=for-the-badge"/>
   </div>
 </div>
 
