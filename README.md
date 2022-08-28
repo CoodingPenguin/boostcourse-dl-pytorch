@@ -1,4 +1,16 @@
-# 부스트코스 : 파이토치로 시작하는 딥러닝 기초
+<div align="center">
+  <a href="https://www.boostcourse.org/ai214/intro">
+      <img src="logo.png" alt="Logo" width="50%">
+  </a>
+  <h1>파이토치로 시작하는 딥러닝 기초</h1>
+  <div>
+    <img src="https://img.shields.io/badge/강사-모두를%20위한%20딥러닝-e76f51?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/사이트-부스트캠프-faa307?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/기간-2020.03.07%20~%2020.03.28-52b788?style=for-the-badge"/>
+  </div>
+</div>
+
+---
 
 edwith에서 제공하는 [파이토치 부스트코스 강의](https://www.edwith.org/boostcourse-dl-pytorch)를 공부하고 정리한 문서입니다.
 
